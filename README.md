@@ -1,5 +1,5 @@
 ### Hi there I'm Marcus Ueda 👋
-- 🔭 I’m currently working on Network SDN
+- 🔭 I’m currently working on Network
 - 🌱 I’m currently learning Cloud and Automation
 - 🤔 I’m looking for help with Devops Stuff
 <div>
